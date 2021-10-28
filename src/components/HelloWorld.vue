@@ -21,9 +21,9 @@
          <p>
          <br>Unete a nuestra Causa 
           <a
-            href="https://community.vuetifyjs.com"
+            href="https://animalvet.com.co"
             target="_blank"
-          >Discord Community</a>
+          >Haz parte de nuestra gran familia peluda</a>
         </p>
       </v-col>
     </v-row>

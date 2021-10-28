@@ -8,7 +8,7 @@
     <v-text-field
       v-model="correo"
       :rules="emailRules"
-      label="E-mail"
+      label="Digita tu correo electronico"
       required
     ></v-text-field>
 
@@ -17,7 +17,7 @@
             :append-icon="show1 ? 'mdi-eye' : 'mdi-eye-off'"
             :type="show1 ? 'text' : 'password'"
             name="input-10-1"
-            label="Contraseña"
+            label="Pon tu huella aqui"
             counter
             @click:append="show1 = !show1"
           ></v-text-field>
