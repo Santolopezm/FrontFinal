@@ -40,7 +40,7 @@
       class="mr-4"
       @click="reset"
     >
-      Reset Form
+      Borrar Formulario
     </v-btn>
 
   </v-form>
